@@ -16,7 +16,6 @@ Binanızın teknik bilgilerini girerek deprem dayanımını öğrenme ve çevren
 ![image](https://user-images.githubusercontent.com/77030797/222929942-ca89db0a-e16b-440c-bd08-f1763ef19a66.png)
 ![image](https://user-images.githubusercontent.com/77030797/223449657-b5f93f9f-4e2a-4719-b472-c1d3e842ec75.png)
 ![image](https://user-images.githubusercontent.com/77030797/223449731-50e86791-a561-4c92-b532-dcb101ad98a1.png)
-![image](https://user-images.githubusercontent.com/77030797/223449371-cf09d400-889b-47ec-81ab-7ebc5d900b48.png)
 
 
  **PROJE TANITIM VİDEOSU :**
