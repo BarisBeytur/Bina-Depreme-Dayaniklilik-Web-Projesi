@@ -1,4 +1,4 @@
-# Bina-depreme-dayaniklilik-web-projesi
+# Bina Depreme Dayaniklılık Web Projesi
 Binanızın teknik bilgilerini girerek deprem dayanımını öğrenme ve çevrenizdeki binaların depreme dayanıklılık durumlarını görme hizmetlerini sağlayan web projesidir.
 
 ###### NOT: Projenin henüz Front-end kısmına başlanmıştır. Backend kısmı tamamlandığında proje güncellenecektir.
@@ -18,16 +18,8 @@ Binanızın teknik bilgilerini girerek deprem dayanımını öğrenme ve çevren
 ![image](https://user-images.githubusercontent.com/77030797/223449731-50e86791-a561-4c92-b532-dcb101ad98a1.png)
 
 
- **PROJE TANITIM VİDEOSU :**
-yakında!
 
-**PROJE WEB SİTESİ :**
-yakında!
-
-**VERİTABANI ve DOSYALAMA YAPISI :**
-yakında!
-
-
+![solution explorer](https://user-images.githubusercontent.com/77030797/198394242-b9839a89-6774-4740-89b5-ffb1c654f65c.jpg)
 
 
 
